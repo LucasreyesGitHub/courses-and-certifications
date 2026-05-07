@@ -4,7 +4,7 @@ Repositorio personal donde documento cursos completados, certificaciones y forma
 
 ---
 
-## 💻 Tecnología / IT
+## 💻 Tecnología - IT
 
 | Curso | Institución | Año |
 |---|---|---|
@@ -12,7 +12,7 @@ Repositorio personal donde documento cursos completados, certificaciones y forma
 
 ---
 
-## 💰 Finanzas / Contabilidad
+## 💰 Finanzas - Contabilidad
 
 | Curso | Institución | Año |
 |---|---|---|
@@ -28,7 +28,7 @@ Repositorio personal donde documento cursos completados, certificaciones y forma
 
 ---
 
-## ⚖️ Compliance / Legal
+## ⚖️ Compliance - Legal
 
 | Curso | Institución | Año |
 |---|---|---|
