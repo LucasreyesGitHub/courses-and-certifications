@@ -1,58 +1,47 @@
 # 📚 Cursos & Certificaciones
 
-Repositorio personal con todos mis cursos completados y certificaciones obtenidas.
-
-## 📊 Resumen
-
-| Categoría | Cantidad |
-|-----------|----------|
-| 💰 [Finanzas / Contabilidad](finanzas-contabilidad/) | 0 |
-| 💻 [Tecnología / IT](tecnologia-it/) | 0 |
-| 🌐 [Idiomas](idiomas/) | 0 |
-| ⚖️ [Compliance / Legal](compliance-legal/) | 0 |
-| 📦 [Otros](otros/) | 0 |
-| **Total** | **0** |
-
----
-
-## 💰 Finanzas / Contabilidad
-
-| Curso | Institución | Año | Certificado |
-|-------|-------------|-----|-------------|
-| _por agregar_ | | | |
+Repositorio personal donde documento cursos completados, certificaciones y formación continua en distintas áreas.
 
 ---
 
 ## 💻 Tecnología / IT
 
-| Curso | Institución | Año | Certificado |
-|-------|-------------|-----|-------------|
-| _por agregar_ | | | |
+| Curso | Institución | Año |
+|---|---|---|
+| Próximamente | — | — |
+
+---
+
+## 💰 Finanzas / Contabilidad
+
+| Curso | Institución | Año |
+|---|---|---|
+| Próximamente | — | — |
 
 ---
 
 ## 🌐 Idiomas
 
-| Idioma | Nivel | Institución | Año | Certificado |
-|--------|-------|-------------|-----|-------------|
-| _por agregar_ | | | | |
+| Idioma | Nivel | Institución |
+|---|---|---|
+| Próximamente | — | — |
 
 ---
 
 ## ⚖️ Compliance / Legal
 
-| Curso | Institución | Año | Certificado |
-|-------|-------------|-----|-------------|
-| _por agregar_ | | | |
+| Curso | Institución | Año |
+|---|---|---|
+| Próximamente | — | — |
 
 ---
 
 ## 📦 Otros
 
-| Curso | Institución | Año | Certificado |
-|-------|-------------|-----|-------------|
-| _por agregar_ | | | |
+| Curso | Institución | Año |
+|---|---|---|
+| Próximamente | — | — |
 
 ---
 
-_Última actualización: Mayo 2026_
+<sub>Última actualización · Mayo 2026</sub>
