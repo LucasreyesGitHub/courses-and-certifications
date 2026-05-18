@@ -1,0 +1,57 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data files (keep schemas/samples, ignore raw dumps)
+*.csv
+*.parquet
+*.json
+!**/samples/*.csv
+!**/samples/*.json
+*.db
+*.sqlite
+*.duckdb
+
+# Credentials and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets/
+credentials/
+
+# Certificates / PDFs (tracked individually where needed)
+# Uncomment the next line to ignore all PDFs by default:
+# *.pdf
+
+# Logs and temp
+*.log
+tmp/
+temp/
