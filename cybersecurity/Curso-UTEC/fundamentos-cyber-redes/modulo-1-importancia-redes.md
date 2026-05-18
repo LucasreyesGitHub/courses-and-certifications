@@ -259,6 +259,64 @@ nslookup google.com 8.8.8.8
 
 ---
 
+---
+
+## Cuestionario 1.5 — Conceptos de redes
+
+**Pregunta 1** — Selecciona la opción que más se acerca al concepto de protocolo:
+
+✅ Conjunto de reglas que se deben seguir y respetar para comunicarse entre sistemas informáticos.
+
+---
+
+**Pregunta 2** — Decimos que existe una red cuando hay al menos 4 o más equipos conectados entre sí:
+
+✅ **Falso** — una red existe con al menos 2 dispositivos conectados entre sí.
+
+---
+
+**Pregunta 3** — ¿Cuál de las siguientes opciones describe correctamente un nodo en una red?
+
+✅ Una computadora o dispositivo conectado a una red que puede comunicarse con otros dispositivos.
+
+---
+
+**Pregunta 4** — Seleccione la opción que se acerca más al concepto de WAN:
+
+✅ Una red de computadoras que normalmente interconecta redes más pequeñas.
+
+---
+
+## Cuestionario 1.9 — Cómo funcionan las redes y equipos
+
+**Pregunta 1** — Une el nombre con el concepto que le corresponda:
+
+| Dispositivo | Concepto |
+|-------------|----------|
+| **Tarjeta de Red (NIC)** | Es el dispositivo que conecta el equipo con el medio físico |
+| **Switch** | Dispositivo que distribuye los paquetes en una red LAN |
+| **Router** | Dispositivo que direcciona los paquetes en diferentes redes |
+
+---
+
+**Pregunta 2** — Los mensajes al pasar por Internet siempre eligen el mismo camino para llegar del origen al destino:
+
+✅ **Falso** — los paquetes pueden tomar rutas distintas dependiendo de la congestión, disponibilidad de enlaces y decisiones de los routers en cada momento.
+
+---
+
+**Pregunta 3** — ¿Cuál de las opciones NO corresponde a una categoría de componente de hardware de red?
+
+✅ **Medios de Distribución** — las tres categorías reales son: Dispositivos finales, Dispositivos intermedios y Medios de Red.
+
+---
+
+**Pregunta 4** — Seleccione la opción que NO corresponde a una desventaja de las redes cableadas:
+
+✅ **Baja interferencia del medio ambiente** — eso es una ventaja de las redes cableadas, no una desventaja.
+
+---
+
 ## Siguiente módulo
 
 → [Módulo 2 — Datos y Medios de Transmisión](modulo-2-datos-transmision.md)
